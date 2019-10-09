@@ -2,122 +2,28 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<div id='calendar'></div>
 
-[Link to another page](./another-page.html).
+### 2019年10月度班長会 議事録
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+[議事録PDF](/assets/2019_10_notes.pdf).
 
 
-### Definition lists can be used with HTML syntax.
+### 公園清掃への参加ご協力のお願い
+恒例の公園清掃を下記内容にて行うことになりました。お忙しいとは存じますが、多くの皆様のご参加をお願い致します。
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+* 日時 :11月17日(日)午前10時~11時30分
+
+* (注)雨天の場合は 12 月 1 日(日)に延期。1 日が雨天の場合は中止。 集合場所 :沢谷戸公園(モニュメント前)
+
+* 担当 :9班・10班、11班、13班→かえで公園 
+その他の班→沢谷戸公園
+(かしの木公園は、指定した班長さんにお願いします。)
+
+* 持参する物 :軍手など手袋、草取り用具、帽子他
+
+* その他 :ゴミは沢谷戸公園で回収します。 終了後に、かえで公園にて参加者全員に飲み物を用意しています。班長の方は、9 時 45 分に三輪センター前にお集まり下さい。
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+当日、赤い羽根共同募金と歳末たすけあいの募金箱 を設置しますので、皆さんのご協力をよろしくお願 い致します。
 ```
