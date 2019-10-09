@@ -6,7 +6,7 @@ layout: default
 
 ### 2019年10月度班長会 議事録
 
-[議事録PDF](/assets/2019_10_notes.pdf).
+[議事録PDF](/assets/pdf/2019_10_notes.pdf)
 
 
 ### 公園清掃への参加ご協力のお願い

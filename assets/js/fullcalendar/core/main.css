@@ -122,6 +122,8 @@ hr.fc-divider {
   border-width: 1px;
   padding: 0;
   vertical-align: top;
+  height: 30px;
+  line-height: 30px;
 }
 
 .fc td.fc-today {
@@ -155,6 +157,7 @@ a[data-goto]:hover {
   border-right: 0 hidden transparent;
   /* no bottom borders on rows */
   border-bottom: 0 hidden transparent;
+  margin: 0;
 }
 
 .fc-row:first-child table {
