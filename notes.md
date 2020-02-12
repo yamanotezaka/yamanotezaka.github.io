@@ -6,6 +6,7 @@ layout: default
 
 2019年度の班長会、議事録一覧です。
 
+* [2月班長会 議事録PDF](/assets/pdf/2020_2_notes.pdf)
 * [1月班長会 議事録PDF](/assets/pdf/2020_1_notes.pdf)
 * [12月班長会 議事録PDF](/assets/pdf/2019_12_notes.pdf)
 * [11月班長会 議事録PDF](/assets/pdf/2019_11_notes.pdf)
